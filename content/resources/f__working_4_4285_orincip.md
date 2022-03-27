@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 799c0026-3644-ac2d-53ad-f53bcbec3908
 resourcetype: Document
 title: F__Working_4_4285_orincip.pdf
 uid: 637d3230-4ee1-29c1-77fe-1d7a2b081fda

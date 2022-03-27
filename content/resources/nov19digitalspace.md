@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 799c0026-3644-ac2d-53ad-f53bcbec3908
 resourcetype: Document
 title: Nov19Digitalspace.pdf
 uid: 3c93f022-856a-5f1a-0a20-d4ac2813be7b

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 799c0026-3644-ac2d-53ad-f53bcbec3908
 resourcetype: Document
 title: Oct22Critique.pdf
 uid: 71da599d-ceec-5e94-e41f-a5256c960777

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 799c0026-3644-ac2d-53ad-f53bcbec3908
 resourcetype: Document
 title: Nov05Transactions.pdf
 uid: 7f458bd2-426b-2d4f-7873-d36b56dc18f5

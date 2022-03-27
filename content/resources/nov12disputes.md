@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 799c0026-3644-ac2d-53ad-f53bcbec3908
 resourcetype: Document
 title: Nov12Disputes.pdf
 uid: 053a3d29-7009-6cdd-1161-1dd68975f901

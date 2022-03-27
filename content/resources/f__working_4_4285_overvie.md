@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 799c0026-3644-ac2d-53ad-f53bcbec3908
 resourcetype: Document
 title: F__Working_4_4285_Overvie.pdf
 uid: a626c64a-592d-f3bf-0d93-b2bc1cddfd55

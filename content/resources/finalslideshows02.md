@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 84445a7b-8bcd-842a-d1ca-7ec822c4d48e
 resourcetype: Document
 title: finalslideshowS02.pdf
 uid: e9303683-ad7b-9a82-1cbf-50e4ec15f5e7

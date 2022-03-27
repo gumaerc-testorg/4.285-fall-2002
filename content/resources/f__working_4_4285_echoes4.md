@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 799c0026-3644-ac2d-53ad-f53bcbec3908
 resourcetype: Document
 title: F__Working_4_4285_Echoes4.pdf
 uid: f00e3fae-7f50-72e9-fba6-9f218ffa3a23
