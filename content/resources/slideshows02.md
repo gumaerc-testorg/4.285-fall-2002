@@ -5,6 +5,7 @@ file: /courses/4-285-research-topics-in-architecture-citizen-centered-design-of-
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: slideshowS02.pdf
 uid: 96665e91-8cb9-6dd5-9e4a-ae7d182c2c7c
 ---
 Digital & Physical Place, Process and Presence
-

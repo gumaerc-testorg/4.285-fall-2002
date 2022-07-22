@@ -5,6 +5,7 @@ file: /courses/4-285-research-topics-in-architecture-citizen-centered-design-of-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Nov19Digitalspace.pdf
 uid: 3c93f022-856a-5f1a-0a20-d4ac2813be7b
 ---
 Digitalspace
-

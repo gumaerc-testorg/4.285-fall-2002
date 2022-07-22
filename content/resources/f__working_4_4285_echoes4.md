@@ -5,6 +5,7 @@ file: /courses/4-285-research-topics-in-architecture-citizen-centered-design-of-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: F__Working_4_4285_Echoes4.pdf
 uid: f00e3fae-7f50-72e9-fba6-9f218ffa3a23
 ---
 Echoes from History: Language of Participatory Democracy and Self-Governance.
-

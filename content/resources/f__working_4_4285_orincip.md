@@ -6,6 +6,7 @@ file: /courses/4-285-research-topics-in-architecture-citizen-centered-design-of-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: F__Working_4_4285_orincip.pdf
 uid: 637d3230-4ee1-29c1-77fe-1d7a2b081fda
 ---
 First Principles and Design Requirements: Collaborative Filtering and Open Source Code for Electronic Self-Governance.
-

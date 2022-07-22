@@ -5,6 +5,7 @@ file: /courses/4-285-research-topics-in-architecture-citizen-centered-design-of-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: F__Working_4_4285_Overvie.pdf
 uid: a626c64a-592d-f3bf-0d93-b2bc1cddfd55
 ---
 Digital & Physical Place, Process and Presence.
-

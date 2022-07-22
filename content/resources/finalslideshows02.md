@@ -5,6 +5,7 @@ file: /courses/4-285-research-topics-in-architecture-citizen-centered-design-of-
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: finalslideshowS02.pdf
 uid: e9303683-ad7b-9a82-1cbf-50e4ec15f5e7
 ---
 Open Governance Environment: Digital & Physical Place, Process and Presence
-

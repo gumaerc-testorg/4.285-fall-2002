@@ -6,6 +6,7 @@ file: /courses/4-285-research-topics-in-architecture-citizen-centered-design-of-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: F__Working_4_4285_Collabo.pdf
 uid: eee04567-988f-0984-481e-2fcf8342e902
 ---
 Collaborative Filters for Community and Governance: ?Can We All Now Finally Talk At Once?"
-
