@@ -2,6 +2,7 @@
 content_type: resource
 description: Slashdot as Example
 file: /courses/4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002/de97aad5821029722b2a4766061f6f36_Sep24Slashdot.pdf
+file_size: 48064
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
