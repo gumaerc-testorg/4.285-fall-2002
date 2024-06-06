@@ -2,6 +2,7 @@
 content_type: resource
 description: Disputes
 file: /courses/4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002/053a3d2970096cdd11611dd68975f901_Nov12Disputes.pdf
+file_size: 63233
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
