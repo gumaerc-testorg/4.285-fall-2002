@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Digital & Physical Place, Process and Presence
-file: /courses/4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002/96665e918cb96dd59e4aae7d182c2c7c_slideshowS02.pdf
+file: /ol-ocw-studio-app/courses/4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002/96665e918cb96dd59e4aae7d182c2c7c_slideshowS02.pdf
 file_size: 3397493
 file_type: application/pdf
 learning_resource_types:
