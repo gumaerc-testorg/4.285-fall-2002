@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Echoes from History: Language of Participatory Democracy and Self-Governance.'
-file: /ol-ocw-studio-app/courses/4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002/f00e3fae7f5072e9fba69f218ffa3a23_F__Working_4_4285_Echoes4.pdf
+file: /courses/4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002/f00e3fae7f5072e9fba69f218ffa3a23_F__Working_4_4285_Echoes4.pdf
 file_size: 95771
 file_type: application/pdf
 learning_resource_types:
