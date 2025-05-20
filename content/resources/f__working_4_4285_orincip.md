@@ -2,7 +2,7 @@
 content_type: resource
 description: 'First Principles and Design Requirements: Collaborative Filtering and
   Open Source Code for Electronic Self-Governance.'
-file: /ol-ocw-studio-app/courses/4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002/637d32304ee129c177fe1d7a2b081fda_F__Working_4_4285_orincip.pdf
+file: /courses/4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002/637d32304ee129c177fe1d7a2b081fda_F__Working_4_4285_orincip.pdf
 file_size: 86423
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Perspectives on the Central Role of Open Source Code for Participatory
   Governance: Human Laws / Coded Conditionals.'
-file: /ol-ocw-studio-app/courses/4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002/0f42b8a980e036208a554575129183f1_F__Working_4_4285_OpenGov.pdf
+file: /courses/4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002/0f42b8a980e036208a554575129183f1_F__Working_4_4285_OpenGov.pdf
 file_size: 145993
 file_type: application/pdf
 learning_resource_types:

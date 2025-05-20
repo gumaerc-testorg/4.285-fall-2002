@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Critique
-file: /ol-ocw-studio-app/courses/4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002/71da599dceec5e94e41fa5256c960777_Oct22Critique.pdf
+file: /courses/4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002/71da599dceec5e94e41fa5256c960777_Oct22Critique.pdf
 file_size: 73155
 file_type: application/pdf
 learning_resource_types:
