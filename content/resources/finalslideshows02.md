@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Open Governance Environment: Digital & Physical Place, Process and Presence'
-file: /courses/4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002/e9303683ad7b9a821cbf50e4ec15f5e7_finalslideshowS02.pdf
+file: /ol-ocw-studio-app/courses/4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002/e9303683ad7b9a821cbf50e4ec15f5e7_finalslideshowS02.pdf
 file_size: 1379148
 file_type: application/pdf
 learning_resource_types:
