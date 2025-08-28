@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Project
-file: /courses/4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002/e16cff97ae0f5a3b5cae8b98b3e2e69e_Oct08Project.pdf
+file: /ol-ocw-studio-app/courses/4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002/e16cff97ae0f5a3b5cae8b98b3e2e69e_Oct08Project.pdf
 file_size: 79338
 file_type: application/pdf
 learning_resource_types:
