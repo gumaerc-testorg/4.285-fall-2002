@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Name and Identity
-file: /courses/4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002/7d075be260105d9577ae6d2a20594130_Oct01Name.pdf
+file: /ol-ocw-studio-app/courses/4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002/7d075be260105d9577ae6d2a20594130_Oct01Name.pdf
 file_size: 60857
 file_type: application/pdf
 learning_resource_types:
